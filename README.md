@@ -9,24 +9,35 @@ Yvonne Anyango
  such as HTML,CSS,javaScript and Bootstrap.The app mainly assist the programming students to
  test their understanding when it comes to programming.
 
-#### Date of current version
-20th April,2018
+##### Date of current version
+12th July,2018
 
 ##### Technologies Used
-Languages used
 *  HTML
 *  CSS
 *  javaScript
 *  Bootstrap
-*  jquery
+*  jQuery
 
 #### Set-up/Installation Requirements
 *  Type in this url ("")  
 
+#### Behavior Driven Development (BDD)
+Possible Answers               |   Correct answers                       |   Expected Results  |
+-----------------------------  |-----------------------------------------|---------------------|
+Question one: choice 1,2 or 3  |  Makes debugging easier                 |      5marks or 0    |
+Question two: choice 1,2 or 3  |  Character                              |      5marks or 0    |
+Question three: choice 1,2 or 3|  A box that allows users to enter their |      5marks or 0    |
+                               |  inputs by providing a text box         |                     |
+Question four choice: 1,2 or 3 |  user interface                         |      5marks or 0    |
+Question five choice: 1,2 or 3 |  Returns true if the argument is not a  |      5marks or 0    |
+                               |  number otherwise it is false           |                     |
+Question six choice: 1,2 or 3  |  //                                     |      5marks or 0    |
+
+
 #### Support and contact details
-*  Phone Number :0707398965
 *  Email Address :ivonnahbonswuh@gmail.com
 
-### License
+#### License
 MIT License
 #### Copyright (c) 2018
